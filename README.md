@@ -17,3 +17,8 @@ Analyze student marks data and generate Total, Average, Pass/Fail result and Gra
 
 ## Output File
 - final_student_report.csv
+
+- ## Project Output
+This project generates a final report CSV file:
+- final_student_report.csv
+
